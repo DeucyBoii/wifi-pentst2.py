@@ -1,0 +1,33 @@
+# custom made application for streamlit, utilizes multiple tools from kali linux.
+
+You're working on a Streamlit penetration testing app that integrates tools like:
+
+Nmap
+
+Metasploit Framework
+
+Hydra
+
+John the Ripper
+
+Burp Suite
+
+SQLMap
+
+Ettercap
+
+DirBuster
+
+Nikto
+
+Wireshark
+
+OWASP ZAP
+
+Snort
+
+Aircrack-ng (Airmon-ng)
+
+
+The app should display the outputs of these tools both within the app interface and as downloadable logs.
+
